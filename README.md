@@ -16,8 +16,7 @@ Key Features
 
 ## View Interactive Dashboard
 
-[View Live on Tableau Public]([https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/app/profile/subhasish.patro/viz/Book1_17512230303510/Dashboard1?publish=yes
-)![image](https://github.com/user-attachments/assets/6c58756f-8174-4b8d-8ae2-b7b9a163b5c3)
+[View Live on Tableau Public] (https://public.tableau.com/app/profile/subhasish.patro/viz/Book1_17512230303510/Dashboard1?publish=yes
 )
 
 
